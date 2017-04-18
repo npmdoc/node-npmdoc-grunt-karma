@@ -1,9 +1,14 @@
-# api documentation for  [grunt-karma (v2.0.0)](https://github.com/karma-runner/grunt-karma#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-karma.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-karma) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-karma.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-karma)
+# npmdoc-grunt-karma
+
+#### api documentation for  [grunt-karma (v2.0.0)](https://github.com/karma-runner/grunt-karma#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-karma.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-karma) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-karma.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-karma)
+
 #### grunt plugin for karma test runner
 
-[![NPM](https://nodei.co/npm/grunt-karma.png?downloads=true)](https://www.npmjs.com/package/grunt-karma)
+[![NPM](https://nodei.co/npm/grunt-karma.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-karma)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-karma_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-karma/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-karma/build/screenCapture.npmPackageListing.svg)
 
@@ -24,144 +29,109 @@
     },
     "contributors": [
         {
-            "name": "Dave Geddes",
-            "email": "davidcgeddes@gmail.com"
+            "name": "Dave Geddes"
         },
         {
-            "name": "Julian Motz",
-            "email": "me@julianmotz.com"
+            "name": "Julian Motz"
         },
         {
-            "name": "Michał Gołębiowski",
-            "email": "m.goleb@gmail.com"
+            "name": "Michał Gołębiowski"
         },
         {
-            "name": "Mark Ethan Trostler",
-            "email": "mark@zzo.com"
+            "name": "Mark Ethan Trostler"
         },
         {
-            "name": "dsuckau",
-            "email": "denis.suckau@concepts-and-training.de"
+            "name": "dsuckau"
         },
         {
-            "name": "Daniel Herman",
-            "email": "daniel.c.herman@gmail.com"
+            "name": "Daniel Herman"
         },
         {
-            "name": "Eddie Monge",
-            "email": "eddie@eddiemonge.com"
+            "name": "Eddie Monge"
         },
         {
-            "name": "James Ford",
-            "email": "jford@psyked.co.uk"
+            "name": "James Ford"
         },
         {
-            "name": "Jonas Pommerening",
-            "email": "jonas.pommerening@gmail.com"
+            "name": "Jonas Pommerening"
         },
         {
-            "name": "Julian",
-            "email": "me@julianmotz.com"
+            "name": "Julian"
         },
         {
-            "name": "Luis Almeida",
-            "email": "lmg.almeida@gmail.com"
+            "name": "Luis Almeida"
         },
         {
-            "name": "Matt Dean",
-            "email": "matt@trabian.com"
+            "name": "Matt Dean"
         },
         {
-            "name": "Max Riveiro",
-            "email": "kavu13@gmail.com"
+            "name": "Max Riveiro"
         },
         {
-            "name": "Mike Dimmick",
-            "email": "mike.dimmick@mnetics.co.uk"
+            "name": "Mike Dimmick"
         },
         {
-            "name": "Nicolas Breitwieser",
-            "email": "nicolas.breitwieser@googlemail.com"
+            "name": "Nicolas Breitwieser"
         },
         {
-            "name": "Olivier Amblet",
-            "email": "olivier@amblet.net"
+            "name": "Olivier Amblet"
         },
         {
-            "name": "Pascal Precht",
-            "email": "pascal.precht@googlemail.com"
+            "name": "Pascal Precht"
         },
         {
-            "name": "Robin Hu",
-            "email": "rhu@novus.com"
+            "name": "Robin Hu"
         },
         {
-            "name": "Roman Morozov",
-            "email": "romo@ciklum.com"
+            "name": "Roman Morozov"
         },
         {
-            "name": "Sahat Yalkabov",
-            "email": "sakhat@gmail.com"
+            "name": "Sahat Yalkabov"
         },
         {
-            "name": "Valentin Hervieu",
-            "email": "valentin.hervieu@milanamos.com"
+            "name": "Valentin Hervieu"
         },
         {
-            "name": "Vlad Filippov",
-            "email": "vlad.filippov@gmail.com"
+            "name": "Vlad Filippov"
         },
         {
-            "name": "Vojta Jina",
-            "email": "vojta.jina@gmail.com"
+            "name": "Vojta Jina"
         },
         {
-            "name": "enigmak",
-            "email": "redingerkai@gmail.com"
+            "name": "enigmak"
         },
         {
-            "name": "facboy",
-            "email": "facboy@gmail.com"
+            "name": "facboy"
         },
         {
-            "name": "jiverson",
-            "email": "jiverson222@gmail.com"
+            "name": "jiverson"
         },
         {
-            "name": "joshrtay",
-            "email": "joshrtay@gmail.com"
+            "name": "joshrtay"
         },
         {
-            "name": "kolesnik",
-            "email": "andrii_kolesnyk@epam.com"
+            "name": "kolesnik"
         },
         {
-            "name": "Alexander Slansky",
-            "email": "alexander@slansky.net"
+            "name": "Alexander Slansky"
         },
         {
-            "name": "m7r",
-            "email": "martin@figuro-theater.de"
+            "name": "m7r"
         },
         {
-            "name": "Alexey Kucherenko",
-            "email": "alexei.kucherenko@gmail.com"
+            "name": "Alexey Kucherenko"
         },
         {
-            "name": "Chris Gross",
-            "email": "cgross@texeltek.com"
+            "name": "Chris Gross"
         },
         {
-            "name": "Chris Wren",
-            "email": "cthewren@gmail.com"
+            "name": "Chris Wren"
         },
         {
-            "name": "Christian Reed",
-            "email": "christian@rgbfab.com"
+            "name": "Christian Reed"
         },
         {
-            "name": "Christoph Kraemer",
-            "email": "chr.kraemer@sap.com"
+            "name": "Christoph Kraemer"
         }
     ],
     "dependencies": {
@@ -208,24 +178,19 @@
     "main": "tasks/grunt-karma.js",
     "maintainers": [
         {
-            "name": "dignifiedquire",
-            "email": "dignifiedquire@gmail.com"
+            "name": "dignifiedquire"
         },
         {
-            "name": "geddski",
-            "email": "davidcgeddes@gmail.com"
+            "name": "geddski"
         },
         {
-            "name": "karmarunnerbot",
-            "email": "karmarunnerbot@gmail.com"
+            "name": "karmarunnerbot"
         },
         {
-            "name": "vojtajina",
-            "email": "vojta.jina+npm@gmail.com"
+            "name": "vojtajina"
         },
         {
-            "name": "zzo",
-            "email": "mark@zzo.com"
+            "name": "zzo"
         }
     ],
     "name": "grunt-karma",
@@ -234,7 +199,6 @@
         "grunt": ">=0.4.x",
         "karma": "^0.13.0 || >= 0.14.0-rc.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/karma-runner/grunt-karma.git"
@@ -245,16 +209,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-karma](#apidoc.module.grunt-karma)
-
-
-
-# <a name="apidoc.module.grunt-karma"></a>[module grunt-karma](#apidoc.module.grunt-karma)
 
 
 
