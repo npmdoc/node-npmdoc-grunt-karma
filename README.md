@@ -1,6 +1,6 @@
 # npmdoc-grunt-karma
 
-#### api documentation for  [grunt-karma (v2.0.0)](https://github.com/karma-runner/grunt-karma#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-karma.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-karma) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-karma.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-karma)
+#### basic api documentation for  [grunt-karma (v2.0.0)](https://github.com/karma-runner/grunt-karma#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-karma.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-karma) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-karma.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-karma)
 
 #### grunt plugin for karma test runner
 
@@ -206,7 +206,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
